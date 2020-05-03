@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c1b365b0-8a73-4f88-9209-047b73e76856/deploy-status)](https://app.netlify.com/sites/quizzical-lichterman-e550dc/deploys)
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
