@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Site Reliability Engineer"
+  company = "CAPSiDE"
+  company_url = "https://www.capside.com/"
+  location = "Barcelona"
+  date_start = "2018-01-15"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Manage critical systems for our customers, many of them from leading companies of their industry.
+
+  Build complex systems for mission ­critical projects, from architecture design to migration planning and continuous operation and improvement.
+
+  Analyze and improve systems performance & scalability, and help to automate the systems management.
+
+  Interact with customers, understanding their needs, and find and design the best technological solution.
+
+  Respond to incidents, diagnose their root cause and fix the underlying problems, designing improvements to avoid the problems to be repeated.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "DevOps Engineer"
+  company = "Interiorvista"
+  company_url = "https://www.interiorvista.com/"
+  location = "Barcelona"
+  date_start = "2015-06-15"
+  date_end = "2018-01-15"
+  description = """
+  Design the system architecture of new projects.
+
+  Production environments configured with load balancing, auto scaling, monitoring and a system of alerts based on events.
+
+  The installation, configuration, deployment, maintenance and administration of development, staging pre-production and production environments.
+
+  Automation of jobs using CloudFormation, OpsWorks and custom tools using the Amazon Web Services infrastructure.
+  """
 
 +++
