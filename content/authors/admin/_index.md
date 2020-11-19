@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Site Reliability Engineer
+role: DevOps Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: CAPSiDE
-  url: "https://www.capside.com/"
+- name: Ocado Technology
+  url: "https://www.ocadogroup.com/technology/technology-pioneers"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Dani Segura is a Site Reliability Engineer. His tech interests include cloud computing, containers, automation and more.
+Dani Segura is a DevOps Engineer. His tech interests include cloud computing, containers, automation and more.
 
 He builds, manages, analyzes and improves critical systems on the cloud in his daily work.

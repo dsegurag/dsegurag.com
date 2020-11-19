@@ -18,12 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "DevOps Engineer"
+  company = "Ocado Technology"
+  company_url = "https://www.ocadogroup.com/technology/technology-pioneers"
+  location = "Barcelona"
+  date_start = "2020-11-16"
+  date_end = ""
+  description = ""
+
+[[experience]]
   title = "Site Reliability Engineer"
   company = "CAPSiDE"
   company_url = "https://www.capside.com/"
   location = "Barcelona"
-  date_start = "2018-01-15"
-  date_end = ""
+  date_start = "2018-01-22"
+  date_end = "2020-11-10"
   description = """
   Manage critical systems for our customers, many of them from leading companies of their industry.
 
